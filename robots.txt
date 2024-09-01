@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uneoper.github.io/sitemap.html.gz
+Sitemap: https://uneoper.github.io/app/sitemap.html.gz
+Sitemap: https://uneoper.github.io/assets/sitemap.html.gz
+Sitemap: https://uneoper.github.io/css/sitemap.html.gz
+Sitemap: https://uneoper.github.io/includes/sitemap.html.gz
+Sitemap: https://uneoper.github.io/item/sitemap.html.gz
+Sitemap: https://uneoper.github.io/src/sitemap.html.gz
